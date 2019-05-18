@@ -1,0 +1,18 @@
+Incidence of HIV (% of uninfected population ages 15-49)
+Incidence of tuberculosis (per 100'000 people)
+Income per person (GDP/capita, PPP$ inflation-adjusted)
+Life expectancy (years) - average number of years a newborn child would live if current mortality patterns were to stay the same
+Educational attainment, at least completed primary school, population 25+ years total (%)
+Population density (people per sq. km of land area)
+Total Population (data after 2010 is based on the medium estimates from UN population division)
+
+https://www.gapminder.org/data/
+
+Gapminder has collected a lot of information about how people live their lives in different countries, tracked across the years, and on a number of different indicators. For this project, you should select at least three indicators to investigate.
+
+    Data is provided as Excel spreadsheet files. You will want to use a spreadsheet program to export each table as a csv file.
+    You will want to look into ways of reshaping your data so that it is tidy, especially if you want to do comparisons across indicators. After joining your data together, your columns might look like:
+    {Country, Year, Indicator 1 Value, Indicator 2 Value, … }
+    Some of the datasets might have been updated since they were collected on Gapminder. If you use these updated datasets, make sure you document this in your report.
+	
+Have certain regions of the world been growing in your selected metrics better than others? Are there trends that can be observed between the selected metrics?
